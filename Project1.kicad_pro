@@ -569,8 +569,44 @@
         },
         {
           "group_by": false,
+          "label": "AVAILABILITY",
+          "name": "AVAILABILITY",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "CUI_PURCHASE_URL",
+          "name": "CUI_PURCHASE_URL",
+          "show": false
+        },
+        {
+          "group_by": false,
           "label": "Height",
           "name": "Height",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MF",
+          "name": "MF",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MP",
+          "name": "MP",
           "show": false
         },
         {
@@ -595,6 +631,30 @@
           "group_by": false,
           "label": "Mouser Price/Stock",
           "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PACKAGE",
+          "name": "PACKAGE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PRICE",
+          "name": "PRICE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
           "show": false
         },
         {
